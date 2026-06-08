@@ -1,0 +1,82 @@
+﻿,"合计
+In Total",17,17,289,289,0,,,,
+计算机类课程,,,,,,,,,,
+"课程
+代码
+Course
+Code","课程名称
+Course Name","学分
+Credits","周学时
+Weekly
+Hours","总课时
+Total
+Hours","课堂学时
+Teaching
+Hours","实践学时
+Practice
+Hours","课程性质
+Course
+Nature","开课学院
+Course
+Department","年级
+Grade","学期
+Term"
+CST119,"程序设计及应用（Python）
+Python Programming and
+Application",3.0,3.0,51,27,24,"必修
+Compulsory","管理科学与
+工程学院
+School of
+Management
+and
+Engineering",一,2
+CST122,"人工智能与现代科技
+Artificial Intelligence and
+Modern Technology",2.0,2.0,34,34,0,"必修
+Compulsory","计算机与人
+工智能学院
+School of
+Computing
+and Artificial
+Intelligence",二,1
+,"合计
+In Total",5,5,85,61,24,,,,
+体育类课程,,,,,,,,,,
+"课程
+代码
+Course
+Code","课程名称
+Course Name","学分
+Credits","周学时
+Weekly
+Hours","总课时
+Total
+Hours","课堂学时
+Teaching
+Hours","实践学时
+Practice
+Hours","课程性质
+Course
+Nature","开课学院
+Course
+Department","年级
+Grade","学期
+Term"
+PED100,"体育Ⅰ
+Physical Education Ⅰ",1.0,2.0,36,0,36,"限选
+Restricted Elective","体育学院
+Department
+of Physical
+Education",一,1
+PED200,"体育Ⅱ
+Physical Education Ⅱ",1.0,2.0,36,0,36,"限选
+Restricted Elective","体育学院
+Department
+of Physical
+Education",一,2
+PED300,"体育Ⅲ
+Physical Education Ⅲ",1.0,2.0,36,0,36,"限选
+Restricted Elective","体育学院
+Department
+of Physical
+Education",二,1

@@ -1,0 +1,299 @@
+﻿code,name,credit,hours,type,major
+CST119,程序设计及应用（Python） Python Programming and Application,3.0,51,必修,1金融学类
+CST122,人工智能与现代科技 Artificial Intelligence and Modern Technology,2.0,34,必修,1金融学类
+PED100,体育Ⅰ Physical Education Ⅰ,1.0,36,必修,1金融学类
+PED200,体育Ⅱ Physical Education Ⅱ,1.0,36,必修,1金融学类
+PED300,体育Ⅲ Physical Education Ⅲ,1.0,36,必修,1金融学类
+HUM103,中国传统文化概论 An Overview of Chinese Traditional Culture,2.0,34,必修,1金融学类
+HUM134,国学导论 Introduction to Traditional Chinese Culture,2.0,34,必修,1金融学类
+HUM136,文学导论 Introduction to Literary,2.0,34,必修,1金融学类
+HUM137,中国文学经典选讲 Selected Lectures on Chinese Literature Classics,2.0,34,必修,1金融学类
+HUM144,中国史通论 General Knowledge of HistoryGeneral Theory of Chinese History,2.0,34,必修,1金融学类
+HUM102,沟通与写作 Communication and Writing,2.0,34,必修,1金融学类
+HUM129,哲学导论 Introduction to the Philisophy,2.0,34,必修,1金融学类
+HUM130,逻辑导论 Introduction to Logic,2.0,34,必修,1金融学类
+HUM131,批判性思维 Critical Thinking,2.0,34,必修,1金融学类
+HUM132,中国哲学史 History of Chinese Philosophy,2.0,34,必修,1金融学类
+HUM133,西方哲学史 History of Western Philosophy,2.0,34,必修,1金融学类
+HUM127,艺术导论 Art Introduction,2.0,34,必修,1金融学类
+HUM139,美学导论 Introduction to Aesthetics,2.0,34,必修,1金融学类
+HUM140,中国艺术史 History of Chinese Art,2.0,34,必修,1金融学类
+HUM141,西方艺术史 History of Western Art,2.0,34,必修,1金融学类
+HUM142,艺术创作与表演 Art Creation and Performance,2.0,34,必修,1金融学类
+HUM143,西方音乐史 History of Western Music,2.0,34,必修,1金融学类
+HUM106,社会学思想与方法 Sociological Thought and Methods,2.0,34,必修,1金融学类
+HUM145,国际组织与全球治理 International Organizations and Global Governance,2.0,34,必修,1金融学类
+HUM146,英语国家与文化互鉴 Mutual learning between countries and cultures,2.0,34,必修,1金融学类
+HUM150,全球粮食安全与可持续农业 Sustainable Agriculture and Food Security,1.0,16,必修,1金融学类
+CST121,计算机与大数据基础 Basis Of Computer And Big Data,2.0,34,必修,1金融学类
+CST338,大模型应用 Large Scale Model Application,2.0,34,必修,1金融学类
+HUM148,双碳战略与可持续发展 Dual Carbon Strategy and Sustainable Development,2.0,34,必修,1金融学类
+HUM401,数字经济 Digital economics,2.0,34,必修,1金融学类
+PAD108,数字政府与社会 Digital Government and Society,2.0,34,必修,1金融学类
+CST349,AI智能体产品设计 AI Intelligent Agent Product Design,2.0,34,必修,1金融学类
+OPT795,金融大语言模型 Large Language Models in Finance,3.0,51,必修,1金融学类
+OPT898,机器学习 Machine Learning,2.0,34,必修,1金融学类
+IPT102,中国近现代史纲要 Outline of Chinese Current and Modern History,3.0,51,必修,1金融学类
+IPT206,形势与政策I Current Situation and Policy I,0.5,8,必修,1金融学类
+IPT107,思想道德与法治 Morality and the Rule of Law,3.0,51,必修,1金融学类
+IPT207,形势与政策II Current Situation and Policy II,0.5,8,必修,1金融学类
+IPT104,毛泽东思想和中国特色社会 主义理论体系概论 Maoism and Socialism with Chinese Characteristics Theories,3.0,51,必修,1金融学类
+IPT208,形势与政策III Current Situation and Policy III,0.5,8,必修,1金融学类
+IPT103,马克思主义基本原理 Basic Theory of Marxism,3.0,51,必修,1金融学类
+IPT109,习近平新时代中国特色社会 主义思想概论 An Introduction to Xi Jinping Thought on Socialism with Chinese Characteristics for a New Era,3.0,51,必修,1金融学类
+ECO100,政治经济学 Political Economics,3.0,51,必修,1金融学类
+ECO101,微观经济学 Microeconomics,3.0,51,必修,1金融学类
+ACC200,会计学 Accounting,3.0,51,必修,1金融学类
+ECO102,宏观经济学 Macroeconomics,3.0,51,必修,1金融学类
+BST300,计量经济学 Econometrics,3.0,51,必修,1金融学类
+FIN303,公司金融 Corporate Finance,3.0,51,必修,1金融学类
+FIN304,投资学 Investments,3.0,51,必修,1金融学类
+FEG403,金融计量学 Financial Econometrics,3.0,51,必修,1金融学类
+FEG404,金融风险管理 Financial Risk Management,3.0,51,必修,1金融学类
+FIN305,国际金融学 International Finance,3.0,51,必修,1金融学类
+FEG401,衍生金融工具 Derivative Financial Instruments,3.0,51,必修,1金融学类
+FIN302,商业银行经营管理 Commercial Bank Management,3.0,51,必修,1金融学类
+SFS404,投资银行学 Investment Banking,3.0,51,必修,1金融学类
+FEG405,金融经济学 Financial Economics,3.0,51,必修,1金融学类
+SFS304,固定收益证券 Fixed Income Securities,3.0,51,必修,1金融学类
+SFS405,资产定价 Asset Pricing,3.0,51,必修,1金融学类
+SFS406,中国资本市场 Chinese Capital Market,3.0,51,必修,1金融学类
+FEG801,衍生金融工具（双语） Financial Derivatives (Bilingual),3.0,51,必修,1金融学类
+CRM302,信用管理学 Credit Management,3.0,51,必修,1金融学类
+CRM303,信用评级 Credit Rating,3.0,51,必修,1金融学类
+CRM408,信用评分 Credit Scoring,3.0,51,必修,1金融学类
+CRM410,绿色金融 Green Finance,3.0,51,必修,1金融学类
+PFC200,财政学 Public Finance,3.0,51,必修,1金融学类
+INV302,工程造价 Project Cost,3.0,51,必修,1金融学类
+INV205,投资项目经济评价 Economic Evaluation of Investment Projects,3.0,51,必修,1金融学类
+INV207,公共投资学 Public Investments,3.0,51,必修,1金融学类
+FTA200,财政与税收 Public Finance and Taxation,2.0,34,必修,1金融学类
+TAX306,投资经济学 Investment Economics,2.0,34,必修,1金融学类
+FIN406,金融科技基础 Foundations of Financial Technology,2.0,34,必修,1金融学类
+INS208,保险学基础 Basics of Insurance,2.0,34,必修,1金融学类
+SFS305,固定收益投资 Fixed Income Investment,2.0,34,必修,1金融学类
+FEG409,EXCEL金融建模与数据分析 EXCEL Financial Modeling and Data Analysis,2.0,34,必修,1金融学类
+FIN411,数字跨境金融 Multinational Finance In Digital Economy,2.0,34,必修,1金融学类
+INV304,不动产投资学 Real Estate Investments,2.0,34,必修,1金融学类
+INV309,国际投资学 International Investments,2.0,34,必修,1金融学类
+SFS303,国际金融市场（英） International Financial Market( English),2.0,34,必修,1金融学类
+ACC401,财务报告分析 Financial Report Analysis,2.0,34,必修,1金融学类
+CRM411,大数据智能风控 Big Data Intelligent Risk Management,2.0,34,必修,1金融学类
+FEG407,行为金融学 Behavioral Finance,2.0,34,必修,1金融学类
+FIN403,金融伦理学 Financial Ethics,2.0,34,必修,1金融学类
+FIN517,公司财务案例 Case Studies For Corporate Finance,2.0,34,必修,1金融学类
+FMT301,资产评估学 Assets Evaluation,2.0,34,必修,1金融学类
+INV209,投资项目管理 Investment Project Management,2.0,34,必修,1金融学类
+INV306,项目投融资决策 Project Investment and Financing Decision,2.0,34,必修,1金融学类
+INV308,项目可行性研究仿真 Simulation of Project Feasibility Study,2.0,34,必修,1金融学类
+MTT102,军事技能 Military Skills,2.0,112,必修,1金融学类
+PRT102,名著阅读 Classics Reading,2.0,34,必修,1金融学类
+PRT109,"创新、创业与社会实践 Innovation, Entrepreneurship and Social Practice",2.0,0,必修,1金融学类
+PRT115,劳动教育 Labor Education,2.0,32,必修,1金融学类
+FEG408,金融数据分析与编程 Financial Data Analysis and Programming,3.0,51,必修,1金融学类
+OPT058,本科学术论文研究与写作 Research and Writing of Undergraduate Thesis,2.0,16,必修,1金融学类
+FIN102,金融学毕业实习 Graduation Internship in Finance,4.0,0,必修,1金融学类
+FIN110,金融证期毕业实习 Graduation Internship in Financial Security and Future,4.0,0,必修,1金融学类
+FIN124,金融证期毕业论文 Graduation Thesis in Financial Security and Future,6.0,0,必修,1金融学类
+FIN106,金融双语毕业实习 Bilingual Graduation Internship in Finance,4.0,0,必修,1金融学类
+FIN120,金融双语毕业论文 Bilingual Graduation Thesis in Finance,6.0,0,必修,1金融学类
+FIN104,信用管理毕业实习 Graduation Internship in Credit Management,4.0,0,必修,1金融学类
+FIN118,信用管理毕业论文 Graduation Thesis in Credit Management,6.0,0,必修,1金融学类
+TAX104,投资学毕业实习 Graduation Internship in Investment Studies,4.0,0,必修,1金融学类
+TAX108,投资学毕业论文 Graduation Thesis in Investment Studies,6.0,0,必修,1金融学类
+专业课程,计算机科学与技术,10.0,10,必修,20252025计算机类(2025计算机类)
+IPT107,思想道德与法治 Morality and the Rule of Law,3.0,51,必修,20252025计算机类(2025计算机类)
+IPT206,形势与政策I Current Situation and Policy I,0.5,8,必修,20252025计算机类(2025计算机类)
+IPT102,中国近现代史纲要 Outline of Chinese Current and Modern History,3.0,51,必修,20252025计算机类(2025计算机类)
+IPT207,形势与政策II Current Situation and Policy II,0.5,8,必修,20252025计算机类(2025计算机类)
+IPT103,马克思主义基本原理 Basic Theory of Marxism,3.0,51,必修,20252025计算机类(2025计算机类)
+IPT208,形势与政策III Current Situation and Policy III,0.5,8,必修,20252025计算机类(2025计算机类)
+IPT104,毛泽东思想和中国特色社会 主义理论体系概论 Maoism and Socialism with Chinese Characteristics Theories,3.0,51,必修,20252025计算机类(2025计算机类)
+IPT209,形势与政策IV Current Situation and Policy IV,0.5,8,必修,20252025计算机类(2025计算机类)
+IPT109,习近平新时代中国特色社会 主义思想概论 An Introduction to Xi Jinping Thought on Socialism with,3.0,51,必修,20252025计算机类(2025计算机类)
+HUM104,大学生心理健康与人生发展 Mental Health and Career Development of College Students,2.0,2,必修,20252025计算机类(2025计算机类)
+MTT101,军事理论 Military Theory,2.0,2,必修,20252025计算机类(2025计算机类)
+MTT201,国家安全教育 National Security Education,1.0,1,必修,20252025计算机类(2025计算机类)
+JOB100,大学生职业生涯规划与创业 基础 Career Planning and Entrepreneurship Foundation of College Students,2.0,2,必修,20252025计算机类(2025计算机类)
+MAT302,高等数学Ⅱ Advanced MathematicsⅡ,5.0,85,必修,20252025计算机类(2025计算机类)
+MAT328,概率论与数理统计B Probability Theory and Mathematical Statistics B,4.0,68,必修,20252025计算机类(2025计算机类)
+CST117,程序设计（C语言） C Language Programming,3.0,51,必修,20252025计算机类(2025计算机类)
+CST116,面向对象程序设计（JAVASE Object-oriented Programming(JAVA SE),3.0,51,必修,20252025计算机类(2025计算机类)
+PED100,体育Ⅰ Physical Education Ⅰ,1.0,36,必修,20252025计算机类(2025计算机类)
+PED200,体育Ⅱ Physical Education Ⅱ,1.0,36,必修,20252025计算机类(2025计算机类)
+PED300,体育Ⅲ Physical Education Ⅲ,1.0,36,必修,20252025计算机类(2025计算机类)
+PED400,体育Ⅳ Physical Education Ⅳ,1.0,36,必修,20252025计算机类(2025计算机类)
+HUM102,沟通与写作 Communication and Writing,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM129,哲学导论 Introduction to the Philisophy,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM130,逻辑导论 Introduction to Logic,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM131,批判性思维 Critical Thinking,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM132,中国哲学史 History of Chinese Philosophy,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM133,西方哲学史 History of Western Philosophy,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM103,中国传统文化概论 An Overview of Chinese Traditional Culture,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM134,国学导论 Introduction to Traditional Chinese Culture,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM136,文学导论 Introduction to Literary,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM144,中国史通论 General Knowledge of HistoryGeneral Theory of Chinese History,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM127,艺术导论 Art Introduction,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM139,美学导论 Introduction to Aesthetics,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM140,中国艺术史 History of Chinese Art,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM141,西方艺术史 History of Western Art,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM142,艺术创作与表演 Art Creation and Performance,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM106,社会学思想与方法 Sociological Thought and Methods,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM138,英语文学与当代世界 Literature and the Contemporary World,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM145,国际组织与全球治理 International Organizations and Global Governance,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM146,英语国家与文化互鉴 Mutual learning between countries and cultures,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM150,全球粮食安全与可持续农业 Sustainable Agriculture and Food Security,1.0,17,必修,20252025计算机类(2025计算机类)
+CST121,计算机与大数据基础 Basis Of Computer And Big Data,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM148,双碳战略与可持续发展 Dual Carbon Strategy and Sustainable Development,2.0,34,必修,20252025计算机类(2025计算机类)
+HUM401,数字经济 Digital economics,2.0,34,必修,20252025计算机类(2025计算机类)
+PAD108,数字政府与社会 Digital Government and Society,2.0,34,必修,20252025计算机类(2025计算机类)
+CST124,数据结构（C语言） Data Structures (C Language),3.0,51,必修,20252025计算机类(2025计算机类)
+HUM117,大学物理 Principle of Physics,3.0,51,必修,20252025计算机类(2025计算机类)
+CST422,大学物理实验 Experiments of University Physics,2.0,34,必修,20252025计算机类(2025计算机类)
+FIT403,计算机组成原理 Principles of Computer Organization,3.0,51,必修,20252025计算机类(2025计算机类)
+CST204,操作系统 Operating System,3.0,51,必修,20252025计算机类(2025计算机类)
+CST203,计算机网络 Computer Networks,3.0,51,必修,20252025计算机类(2025计算机类)
+CST207,算法分析与设计 Algorithm Analysis and Design,3.0,51,必修,20252025计算机类(2025计算机类)
+CST205,数据库原理与应用 Database Theories and Application,3.0,51,必修,20252025计算机类(2025计算机类)
+DSC321,机器学习与数据挖掘 Machine Learning and Data Mining,4.0,68,必修,20252025计算机类(2025计算机类)
+CST201,数字逻辑电路 Digital Logical Circuit,3.0,51,必修,20252025计算机类(2025计算机类)
+CST322,软件工程 Software Engineering,3.0,51,必修,20252025计算机类(2025计算机类)
+CST327,大数据技术 Big Data Technology,3.0,51,必修,20252025计算机类(2025计算机类)
+CST208,编译原理 Principle of Compiling,4.0,68,必修,20252025计算机类(2025计算机类)
+CST302,数字图像处理 Digital Image Processing,3.0,51,必修,20252025计算机类(2025计算机类)
+DSC202,数据可视化 Data Visualization,3.0,51,必修,20252025计算机类(2025计算机类)
+DSC401,深度学习 Deep Learning,3.0,51,必修,20252025计算机类(2025计算机类)
+CST331,智能语音处理 Intelligent Speech Processing,3.0,51,必修,20252025计算机类(2025计算机类)
+CST344,机器视觉 Machine Vision,3.0,51,必修,20252025计算机类(2025计算机类)
+CST332,现代密码学 Modern Cryptography,3.0,51,必修,20252025计算机类(2025计算机类)
+CST333,网络安全原理与实践 Principles and Practices of Cybersecurity,3.0,51,必修,20252025计算机类(2025计算机类)
+CST326,区块链技术 Financial Certification-Theory and Practice,3.0,51,必修,20252025计算机类(2025计算机类)
+CST334,数据安全与隐私保护 Data Security and Privacy Protection,3.0,51,必修,20252025计算机类(2025计算机类)
+CST335,系统与应用安全 System and Application Security,3.0,51,必修,20252025计算机类(2025计算机类)
+CST123,数据仓库 Data Warehouse,3.0,51,必修,20252025计算机类(2025计算机类)
+CST132,JAVA EE开发实践 JAVA EE Development Practice,2.0,34,必修,20252025计算机类(2025计算机类)
+CST403,矩阵分析 Matrix Analysis,2.0,34,必修,20252025计算机类(2025计算机类)
+CST339,金融科技基础 Basics of Financial Technology,2.0,34,必修,20252025计算机类(2025计算机类)
+CST412,图论及其应用 Graph theory and its applications,2.0,34,必修,20252025计算机类(2025计算机类)
+CST336,移动应用开发实践 Mobile Application Development,2.0,34,必修,20252025计算机类(2025计算机类)
+CST337,人工智能综合实践 Comprehensive Practice of Artificial Intelligence,2.0,34,必修,20252025计算机类(2025计算机类)
+CST345,知识图谱与应用 Knowledge Map and Application,2.0,34,必修,20252025计算机类(2025计算机类)
+CST343,联邦学习 Federated Learning,2.0,34,必修,20252025计算机类(2025计算机类)
+CST410,算法交易 Algorithmic Trading,2.0,34,必修,20252025计算机类(2025计算机类)
+DSC402,强化学习 Reinforcement Learning,2.0,34,必修,20252025计算机类(2025计算机类)
+ECO332,博弈论 Game Theory,2.0,34,必修,20252025计算机类(2025计算机类)
+CST131,学术前沿系列 Academic Frontier Series,1.0,0,必修,20252025计算机类(2025计算机类)
+CST421,科技竞赛 Science and technology competition,1.0,0,必修,20252025计算机类(2025计算机类)
+MTT102,军事技能 Military Skills,2.0,112,必修,20252025计算机类(2025计算机类)
+PRT102,名著阅读 Classics Reading,2.0,34,必修,20252025计算机类(2025计算机类)
+PRT115,劳动教育 Labor Education,2.0,32,必修,20252025计算机类(2025计算机类)
+CST130,创新程序设计实践 Innovative Programming Designing Practice,2.0,34,必修,20252025计算机类(2025计算机类)
+CST328,计算机系统综合实验 Computer System Synthesis Experiment,2.0,34,必修,20252025计算机类(2025计算机类)
+OPT550,科学研究与论文写作指导 Scientific research and thesis writing guidance,1.0,18,必修,20252025计算机类(2025计算机类)
+CST341,专业综合项目实训 Professional Comprehensive Project Training,2.0,34,必修,20252025计算机类(2025计算机类)
+CST911,科技创新与产业前沿 Technology Innovation and Industry Frontier,1.0,18,必修,20252025计算机类(2025计算机类)
+JTC030,计算机科学与技术毕业实习 Graduatin Internship in Computer Science and Technology,4.0,0,必修,20252025计算机类(2025计算机类)
+JTC031,人工智能毕业实习 Graduatin Internship in Artificial Intelligence,4.0,0,必修,20252025计算机类(2025计算机类)
+JTC036,网络空间安全毕业实习 Graduation Internship of the Cybersecurity,4.0,0,必修,20252025计算机类(2025计算机类)
+STA105,数据科学与大数据技术毕业 实习 Graduation Internship in Data Science and Big Data Technology,4.0,0,必修,20252025计算机类(2025计算机类)
+JTC034,人工智能毕业论文 Graduatin THesis in Artificial Intelligence,6.0,0,必修,20252025计算机类(2025计算机类)
+JTC038,网络空间安全毕业论文 Graduation Thesis of the Cybersecurity,6.0,0,必修,20252025计算机类(2025计算机类)
+STA110,数据科学与大数据技术毕业 论文 Graduation Thesis in Data Science and Big Data Technology,6.0,0,必修,20252025计算机类(2025计算机类)
+专业课程,计算机科学与技术,10.0,10,必修,raw
+IPT107,思想道德与法治 Morality and the Rule of Law,3.0,51,必修,raw
+IPT206,形势与政策I Current Situation and Policy I,0.5,8,必修,raw
+IPT102,中国近现代史纲要 Outline of Chinese Current and Modern History,3.0,51,必修,raw
+IPT207,形势与政策II Current Situation and Policy II,0.5,8,必修,raw
+IPT103,马克思主义基本原理 Basic Theory of Marxism,3.0,51,必修,raw
+IPT208,形势与政策III Current Situation and Policy III,0.5,8,必修,raw
+IPT104,毛泽东思想和中国特色社会 主义理论体系概论 Maoism and Socialism with Chinese Characteristics Theories,3.0,51,必修,raw
+IPT209,形势与政策IV Current Situation and Policy IV,0.5,8,必修,raw
+IPT109,习近平新时代中国特色社会 主义思想概论 An Introduction to Xi Jinping Thought on Socialism with,3.0,51,必修,raw
+HUM104,大学生心理健康与人生发展 Mental Health and Career Development of College Students,2.0,2,必修,raw
+MTT101,军事理论 Military Theory,2.0,2,必修,raw
+MTT201,国家安全教育 National Security Education,1.0,1,必修,raw
+JOB100,大学生职业生涯规划与创业 基础 Career Planning and Entrepreneurship Foundation of College Students,2.0,2,必修,raw
+MAT302,高等数学Ⅱ Advanced MathematicsⅡ,5.0,85,必修,raw
+MAT328,概率论与数理统计B Probability Theory and Mathematical Statistics B,4.0,68,必修,raw
+CST117,程序设计（C语言） C Language Programming,3.0,51,必修,raw
+CST116,面向对象程序设计（JAVASE Object-oriented Programming(JAVA SE),3.0,51,必修,raw
+PED100,体育Ⅰ Physical Education Ⅰ,1.0,36,必修,raw
+PED200,体育Ⅱ Physical Education Ⅱ,1.0,36,必修,raw
+PED300,体育Ⅲ Physical Education Ⅲ,1.0,36,必修,raw
+PED400,体育Ⅳ Physical Education Ⅳ,1.0,36,必修,raw
+HUM102,沟通与写作 Communication and Writing,2.0,34,必修,raw
+HUM129,哲学导论 Introduction to the Philisophy,2.0,34,必修,raw
+HUM130,逻辑导论 Introduction to Logic,2.0,34,必修,raw
+HUM131,批判性思维 Critical Thinking,2.0,34,必修,raw
+HUM132,中国哲学史 History of Chinese Philosophy,2.0,34,必修,raw
+HUM133,西方哲学史 History of Western Philosophy,2.0,34,必修,raw
+HUM103,中国传统文化概论 An Overview of Chinese Traditional Culture,2.0,34,必修,raw
+HUM134,国学导论 Introduction to Traditional Chinese Culture,2.0,34,必修,raw
+HUM136,文学导论 Introduction to Literary,2.0,34,必修,raw
+HUM144,中国史通论 General Knowledge of HistoryGeneral Theory of Chinese History,2.0,34,必修,raw
+HUM127,艺术导论 Art Introduction,2.0,34,必修,raw
+HUM139,美学导论 Introduction to Aesthetics,2.0,34,必修,raw
+HUM140,中国艺术史 History of Chinese Art,2.0,34,必修,raw
+HUM141,西方艺术史 History of Western Art,2.0,34,必修,raw
+HUM142,艺术创作与表演 Art Creation and Performance,2.0,34,必修,raw
+HUM106,社会学思想与方法 Sociological Thought and Methods,2.0,34,必修,raw
+HUM138,英语文学与当代世界 Literature and the Contemporary World,2.0,34,必修,raw
+HUM145,国际组织与全球治理 International Organizations and Global Governance,2.0,34,必修,raw
+HUM146,英语国家与文化互鉴 Mutual learning between countries and cultures,2.0,34,必修,raw
+HUM150,全球粮食安全与可持续农业 Sustainable Agriculture and Food Security,1.0,17,必修,raw
+CST121,计算机与大数据基础 Basis Of Computer And Big Data,2.0,34,必修,raw
+HUM148,双碳战略与可持续发展 Dual Carbon Strategy and Sustainable Development,2.0,34,必修,raw
+HUM401,数字经济 Digital economics,2.0,34,必修,raw
+PAD108,数字政府与社会 Digital Government and Society,2.0,34,必修,raw
+CST124,数据结构（C语言） Data Structures (C Language),3.0,51,必修,raw
+HUM117,大学物理 Principle of Physics,3.0,51,必修,raw
+CST422,大学物理实验 Experiments of University Physics,2.0,34,必修,raw
+FIT403,计算机组成原理 Principles of Computer Organization,3.0,51,必修,raw
+CST204,操作系统 Operating System,3.0,51,必修,raw
+CST203,计算机网络 Computer Networks,3.0,51,必修,raw
+CST207,算法分析与设计 Algorithm Analysis and Design,3.0,51,必修,raw
+CST205,数据库原理与应用 Database Theories and Application,3.0,51,必修,raw
+DSC321,机器学习与数据挖掘 Machine Learning and Data Mining,4.0,68,必修,raw
+CST201,数字逻辑电路 Digital Logical Circuit,3.0,51,必修,raw
+CST322,软件工程 Software Engineering,3.0,51,必修,raw
+CST327,大数据技术 Big Data Technology,3.0,51,必修,raw
+CST208,编译原理 Principle of Compiling,4.0,68,必修,raw
+CST302,数字图像处理 Digital Image Processing,3.0,51,必修,raw
+DSC202,数据可视化 Data Visualization,3.0,51,必修,raw
+DSC401,深度学习 Deep Learning,3.0,51,必修,raw
+CST331,智能语音处理 Intelligent Speech Processing,3.0,51,必修,raw
+CST344,机器视觉 Machine Vision,3.0,51,必修,raw
+CST332,现代密码学 Modern Cryptography,3.0,51,必修,raw
+CST333,网络安全原理与实践 Principles and Practices of Cybersecurity,3.0,51,必修,raw
+CST326,区块链技术 Financial Certification-Theory and Practice,3.0,51,必修,raw
+CST334,数据安全与隐私保护 Data Security and Privacy Protection,3.0,51,必修,raw
+CST335,系统与应用安全 System and Application Security,3.0,51,必修,raw
+CST123,数据仓库 Data Warehouse,3.0,51,必修,raw
+CST132,JAVA EE开发实践 JAVA EE Development Practice,2.0,34,必修,raw
+CST403,矩阵分析 Matrix Analysis,2.0,34,必修,raw
+CST339,金融科技基础 Basics of Financial Technology,2.0,34,必修,raw
+CST412,图论及其应用 Graph theory and its applications,2.0,34,必修,raw
+CST336,移动应用开发实践 Mobile Application Development,2.0,34,必修,raw
+CST337,人工智能综合实践 Comprehensive Practice of Artificial Intelligence,2.0,34,必修,raw
+CST345,知识图谱与应用 Knowledge Map and Application,2.0,34,必修,raw
+CST343,联邦学习 Federated Learning,2.0,34,必修,raw
+CST410,算法交易 Algorithmic Trading,2.0,34,必修,raw
+DSC402,强化学习 Reinforcement Learning,2.0,34,必修,raw
+ECO332,博弈论 Game Theory,2.0,34,必修,raw
+CST131,学术前沿系列 Academic Frontier Series,1.0,0,必修,raw
+CST421,科技竞赛 Science and technology competition,1.0,0,必修,raw
+MTT102,军事技能 Military Skills,2.0,112,必修,raw
+PRT102,名著阅读 Classics Reading,2.0,34,必修,raw
+PRT115,劳动教育 Labor Education,2.0,32,必修,raw
+CST130,创新程序设计实践 Innovative Programming Designing Practice,2.0,34,必修,raw
+CST328,计算机系统综合实验 Computer System Synthesis Experiment,2.0,34,必修,raw
+OPT550,科学研究与论文写作指导 Scientific research and thesis writing guidance,1.0,18,必修,raw
+CST341,专业综合项目实训 Professional Comprehensive Project Training,2.0,34,必修,raw
+CST911,科技创新与产业前沿 Technology Innovation and Industry Frontier,1.0,18,必修,raw
+JTC030,计算机科学与技术毕业实习 Graduatin Internship in Computer Science and Technology,4.0,0,必修,raw
+JTC031,人工智能毕业实习 Graduatin Internship in Artificial Intelligence,4.0,0,必修,raw
+JTC036,网络空间安全毕业实习 Graduation Internship of the Cybersecurity,4.0,0,必修,raw
+STA105,数据科学与大数据技术毕业 实习 Graduation Internship in Data Science and Big Data Technology,4.0,0,必修,raw
+JTC034,人工智能毕业论文 Graduatin THesis in Artificial Intelligence,6.0,0,必修,raw
+JTC038,网络空间安全毕业论文 Graduation Thesis of the Cybersecurity,6.0,0,必修,raw
+STA110,数据科学与大数据技术毕业 论文 Graduation Thesis in Data Science and Big Data Technology,6.0,0,必修,raw

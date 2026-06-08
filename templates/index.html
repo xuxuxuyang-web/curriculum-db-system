@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>培养方案数据库系统 - 西南财经大学</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Microsoft YaHei', 'SimHei', Arial, sans-serif;
+            background: linear-gradient(135deg, #1a5f7a 0%, #0d3b4f 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .header {
+            text-align: center;
+            padding: 30px;
+            background: white;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+
+        .header h1 {
+            color: #1a5f7a;
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            color: #666;
+            font-size: 14px;
+        }
+
+        .card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 25px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+        }
+
+        .card h3 {
+            color: #1a5f7a;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: bold;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: border-color 0.3s;
+        }
+
+        input:focus, select:focus {
+            outline: none;
+            border-color: #1a5f7a;
+        }
+
+        button {
+            background: #1a5f7a;
+            color: white;
+            padding: 12px 30px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background: #0d3b4f;
+        }
+
+        .row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 25px;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            color: rgba(255,255,255,0.7);
+            font-size: 12px;
+        }
+
+        @media (max-width: 768px) {
+            .row {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌟 培养方案数据库系统</h1>
+            <p>西南财经大学 · 计算机与人工智能学院 | 支持自然语言查询 | 跨校对比分析</p>
+        </div>
+
+        <div class="row">
+            <!-- 功能1：查询专业必修课 -->
+            <div class="card">
+                <h3>📚 查询专业必修课</h3>
+                <form action="/query/required_courses" method="post">
+                    <div class="form-group">
+                        <label>专业名称</label>
+                        <input type="text" name="major" placeholder="例：金融学、计算机科学与技术" required>
+                    </div>
+                    <button type="submit">查询</button>
+                </form>
+            </div>
+
+            <!-- 功能2：查询课程信息 -->
+            <div class="card">
+                <h3>🔍 查询课程学分、学时</h3>
+                <form action="/query/course_info" method="post">
+                    <div class="form-group">
+                        <label>课程名称</label>
+                        <input type="text" name="course_name" placeholder="例：高等数学、数据结构" required>
+                    </div>
+                    <button type="submit">查询</button>
+                </form>
+            </div>
+
+            <!-- 功能3：查询专业总学分 -->
+            <div class="card">
+                <h3>📊 查询专业总学分</h3>
+                <form action="/query/major_credits" method="post">
+                    <div class="form-group">
+                        <label>专业名称</label>
+                        <input type="text" name="major" placeholder="例：金融学" required>
+                    </div>
+                    <button type="submit">查询</button>
+                </form>
+            </div>
+
+            <!-- 功能5：关键词搜索 -->
+            <div class="card">
+                <h3>🔎 关键词搜索课程</h3>
+                <form action="/query/search" method="post">
+                    <div class="form-group">
+                        <label>搜索关键词</label>
+                        <input type="text" name="keyword" placeholder="例：金融、计算机、数学" required>
+                    </div>
+                    <button type="submit">搜索</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>💬 自然语言查询（智能问答）</h3>
+            <form action="/query/natural" method="post">
+                <div class="form-group">
+                    <label>输入您的问题</label>
+                    <input type="text" name="question" placeholder="例：金融学专业必修课 | 数据结构课程的学分 | 计算机科学与技术专业总学分" required>
+                </div>
+                <button type="submit">智能问答</button>
+            </form>
+            <div style="margin-top: 15px; padding: 10px; background: #f5f5f5; border-radius: 8px; font-size: 13px; color: #666;">
+                💡 支持的问题：<br>
+                • "金融学专业必修课"<br>
+                • "高等数学课程的学分"<br>
+                • "计算机科学与技术专业总学分"<br>
+                • "搜索数据库课程"
+            </div>
+        </div>
+
+        <footer>
+            © 2025 培养方案数据库系统 | 数据来源：西南财经大学教务处
+        </footer>
+    </div>
+</body>
+</html>

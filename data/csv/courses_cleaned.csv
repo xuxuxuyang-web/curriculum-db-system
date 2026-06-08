@@ -1,0 +1,94 @@
+﻿code,name,credit,hours,type
+IPT107,思想道德与法治 Morality and the Rule of Law,3.0,51,必修
+IPT206,形势与政策I Current Situation and Policy I,0.5,8,必修
+IPT102,中国近现代史纲要 Outline of Chinese Current and Modern History,3.0,51,必修
+IPT207,形势与政策II Current Situation and Policy II,0.5,8,必修
+IPT103,马克思主义基本原理 Basic Theory of Marxism,3.0,51,必修
+IPT208,形势与政策III Current Situation and Policy III,0.5,8,必修
+IPT104,毛泽东思想和中国特色社会 主义理论体系概论 Maoism and Socialism with Chinese Characteristics Theories,3.0,51,必修
+IPT209,形势与政策IV Current Situation and Policy IV,0.5,8,必修
+IPT109,习近平新时代中国特色社会 主义思想概论 An Introduction to Xi Jinping Thought on Socialism with,3.0,51,必修
+MAT302,高等数学Ⅱ Advanced MathematicsⅡ,5.0,85,必修
+MAT328,概率论与数理统计B Probability Theory and Mathematical Statistics B,4.0,68,必修
+CST117,程序设计（C语言） C Language Programming,3.0,51,必修
+CST116,面向对象程序设计（JAVASE Object-oriented Programming(JAVA SE),3.0,51,必修
+PED100,体育Ⅰ Physical Education Ⅰ,1.0,36,必修
+PED200,体育Ⅱ Physical Education Ⅱ,1.0,36,必修
+PED300,体育Ⅲ Physical Education Ⅲ,1.0,36,必修
+PED400,体育Ⅳ Physical Education Ⅳ,1.0,36,必修
+HUM102,沟通与写作 Communication and Writing,2.0,34,必修
+HUM129,哲学导论 Introduction to the Philisophy,2.0,34,必修
+HUM130,逻辑导论 Introduction to Logic,2.0,34,必修
+HUM131,批判性思维 Critical Thinking,2.0,34,必修
+HUM132,中国哲学史 History of Chinese Philosophy,2.0,34,必修
+HUM133,西方哲学史 History of Western Philosophy,2.0,34,必修
+HUM103,中国传统文化概论 An Overview of Chinese Traditional Culture,2.0,34,必修
+HUM134,国学导论 Introduction to Traditional Chinese Culture,2.0,34,必修
+HUM136,文学导论 Introduction to Literary,2.0,34,必修
+HUM144,中国史通论 General Knowledge of HistoryGeneral Theory of Chinese History,2.0,34,必修
+HUM127,艺术导论 Art Introduction,2.0,34,必修
+HUM139,美学导论 Introduction to Aesthetics,2.0,34,必修
+HUM140,中国艺术史 History of Chinese Art,2.0,34,必修
+HUM141,西方艺术史 History of Western Art,2.0,34,必修
+HUM142,艺术创作与表演 Art Creation and Performance,2.0,34,必修
+HUM106,社会学思想与方法 Sociological Thought and Methods,2.0,34,必修
+HUM138,英语文学与当代世界 Literature and the Contemporary World,2.0,34,必修
+HUM145,国际组织与全球治理 International Organizations and Global Governance,2.0,34,必修
+HUM146,英语国家与文化互鉴 Mutual learning between countries and cultures,2.0,34,必修
+HUM150,全球粮食安全与可持续农业 Sustainable Agriculture and Food Security,1.0,17,必修
+CST121,计算机与大数据基础 Basis Of Computer And Big Data,2.0,34,必修
+HUM148,双碳战略与可持续发展 Dual Carbon Strategy and Sustainable Development,2.0,34,必修
+HUM401,数字经济 Digital economics,2.0,34,必修
+PAD108,数字政府与社会 Digital Government and Society,2.0,34,必修
+CST124,数据结构（C语言） Data Structures (C Language),3.0,51,必修
+HUM117,大学物理 Principle of Physics,3.0,51,必修
+CST422,大学物理实验 Experiments of University Physics,2.0,34,必修
+FIT403,计算机组成原理 Principles of Computer Organization,3.0,51,必修
+CST204,操作系统 Operating System,3.0,51,必修
+CST203,计算机网络 Computer Networks,3.0,51,必修
+CST207,算法分析与设计 Algorithm Analysis and Design,3.0,51,必修
+CST205,数据库原理与应用 Database Theories and Application,3.0,51,必修
+DSC321,机器学习与数据挖掘 Machine Learning and Data Mining,4.0,68,必修
+CST201,数字逻辑电路 Digital Logical Circuit,3.0,51,必修
+CST322,软件工程 Software Engineering,3.0,51,必修
+CST327,大数据技术 Big Data Technology,3.0,51,必修
+CST208,编译原理 Principle of Compiling,4.0,68,必修
+CST302,数字图像处理 Digital Image Processing,3.0,51,必修
+DSC202,数据可视化 Data Visualization,3.0,51,必修
+DSC401,深度学习 Deep Learning,3.0,51,必修
+CST331,智能语音处理 Intelligent Speech Processing,3.0,51,必修
+CST344,机器视觉 Machine Vision,3.0,51,必修
+CST332,现代密码学 Modern Cryptography,3.0,51,必修
+CST333,网络安全原理与实践 Principles and Practices of Cybersecurity,3.0,51,必修
+CST326,区块链技术 Financial Certification-Theory and Practice,3.0,51,必修
+CST334,数据安全与隐私保护 Data Security and Privacy Protection,3.0,51,必修
+CST335,系统与应用安全 System and Application Security,3.0,51,必修
+CST123,数据仓库 Data Warehouse,3.0,51,必修
+CST132,JAVA EE开发实践 JAVA EE Development Practice,2.0,34,必修
+CST403,矩阵分析 Matrix Analysis,2.0,34,必修
+CST339,金融科技基础 Basics of Financial Technology,2.0,34,必修
+CST412,图论及其应用 Graph theory and its applications,2.0,34,必修
+CST336,移动应用开发实践 Mobile Application Development,2.0,34,必修
+CST337,人工智能综合实践 Comprehensive Practice of Artificial Intelligence,2.0,34,必修
+CST345,知识图谱与应用 Knowledge Map and Application,2.0,34,必修
+CST343,联邦学习 Federated Learning,2.0,34,必修
+CST410,算法交易 Algorithmic Trading,2.0,34,必修
+DSC402,强化学习 Reinforcement Learning,2.0,34,必修
+ECO332,博弈论 Game Theory,2.0,34,必修
+CST131,学术前沿系列 Academic Frontier Series,1.0,0,必修
+CST421,科技竞赛 Science and technology competition,1.0,0,必修
+MTT102,军事技能 Military Skills,2.0,112,必修
+PRT102,名著阅读 Classics Reading,2.0,34,必修
+PRT115,劳动教育 Labor Education,2.0,32,必修
+CST130,创新程序设计实践 Innovative Programming Designing Practice,2.0,34,必修
+CST328,计算机系统综合实验 Computer System Synthesis Experiment,2.0,34,必修
+OPT550,科学研究与论文写作指导 Scientific research and thesis writing guidance,1.0,18,必修
+CST341,专业综合项目实训 Professional Comprehensive Project Training,2.0,34,必修
+CST911,科技创新与产业前沿 Technology Innovation and Industry Frontier,1.0,18,必修
+JTC030,计算机科学与技术毕业实习 Graduatin Internship in Computer Science and Technology,4.0,0,必修
+JTC031,人工智能毕业实习 Graduatin Internship in Artificial Intelligence,4.0,0,必修
+JTC036,网络空间安全毕业实习 Graduation Internship of the Cybersecurity,4.0,0,必修
+STA105,数据科学与大数据技术毕业 实习 Graduation Internship in Data Science and Big Data Technology,4.0,0,必修
+JTC034,人工智能毕业论文 Graduatin THesis in Artificial Intelligence,6.0,0,必修
+JTC038,网络空间安全毕业论文 Graduation Thesis of the Cybersecurity,6.0,0,必修
+STA110,数据科学与大数据技术毕业 论文 Graduation Thesis in Data Science and Big Data Technology,6.0,0,必修
