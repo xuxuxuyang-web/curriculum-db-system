@@ -1,4 +1,4 @@
-<img width="829" height="463" alt="image" src="https://github.com/user-attachments/assets/0cd642c1-7b66-416d-aeab-93383d1af2a6" /># 📚 培养方案数据库系统
+📚 培养方案数据库系统
 
 西南财经大学《数据库系统》课程设计项目
 
